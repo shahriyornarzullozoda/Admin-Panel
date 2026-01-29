@@ -27,5 +27,5 @@
 
 ## ⚙️ Запуск проекта
 1. `npm install` — установка зависимостей.
-2. `npm start` — запуск dev-сервера (прокси на https://rest-test.machineheads.ru).
+2. `npm start` — запуск dev-сервера 
 3. `npm run build` — сборка оптимизированного production-бандла.
